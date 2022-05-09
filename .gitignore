@@ -1,0 +1,5 @@
+# ignore all mzXML files
+*.mzXML
+.\mzXML
+*.zip
+/Figures
