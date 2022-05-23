@@ -1,7 +1,7 @@
 # pgc-glycosylation-lfq
 Repository containing code to recreate figures and supplemental tables found in publication ____.
 
-<img src="https://github.com/lingjunli-research/PGC_Parallel_Comp/blob/main/images/ReadmeImg.png" align="right"
+<img src="https://github.com/lingjunli-research/pgc-glycosylation-lfq/blob/main/images/ReadmeImg.png" align="right"
      alt="EIC of glycopeptide" height="250">
      
 
