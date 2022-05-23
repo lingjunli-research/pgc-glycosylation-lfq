@@ -1,0 +1,10 @@
+scipy==1.5.2
+selenium==3.141.0
+matplotlib==3.2.1
+numpy==1.22.3
+venn==0.1.3
+altair==4.1.0
+pyteomics==4.3.2
+UpSetPlot==0.4.1
+chromedriver_autoinstaller==0.2.2
+pandas==1.3.4
