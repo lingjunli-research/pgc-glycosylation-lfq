@@ -3,3 +3,5 @@
 .\mzXML
 *.zip
 /Figures
+/objects
+*.pkl
