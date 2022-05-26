@@ -9,7 +9,7 @@ Repository containing code to recreate figures and supplemental tables found in 
 
 
 ## Data Availability
-The code and data provided in this repository is meant to be accessed, viewed, tested, and reused by manuscript reviewers and readers. Most of the [data](https://github.com/lingjunli-research/pgc-glycosylation-lfq/blob/main/N_Glycosylation_Results) has been provided alongside the code. However, the raw and mzxml files needed to recreate some items must be accessed from the [ProteomeXchange Consortium](http://www.proteomexchange.org/). Unique accession information will follow publication. If you experience any trouble in accessing or running this code, please contact me using the information below. 
+The code and data provided in this repository is meant to be accessed, viewed, tested, and reused by manuscript reviewers and readers. Most of the [data](https://github.com/lingjunli-research/pgc-glycosylation-lfq/blob/main/N_Glycosylation_Results) has been provided alongside the code. However, the raw and mzxml files needed to recreate some items must be accessed from the [ProteomeXchange Consortium](http://www.proteomexchange.org/). Unique accession information will be provided, following publication. If you experience any trouble in accessing or running this code, please contact me using the information below. 
 
 
 ## Getting Started
