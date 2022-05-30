@@ -18,7 +18,7 @@ This repo uses python and jupyter notebooks. If you do not have either of these 
 
 Easiest way to use these notebooks is to clone/fork the repo and then install requirements.
 ```
-git clone https:/github.com/lingjunli-research/PGC_Parallel_Comp
+git clone https:/github.com/lingjunli-research/pgc-glycosylation-lfq
 
 # navigate to the new directory
 cd C:/user/some/path/to/directory/pgc-glycosylation-lfq
